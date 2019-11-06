@@ -74,7 +74,6 @@ int main(){
         printf("\n");
 
     }
-    printf("%d",m);
 
     system("pause");
     return 0;
