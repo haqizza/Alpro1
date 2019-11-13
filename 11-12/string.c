@@ -6,7 +6,7 @@ int main(){
     scanf("%d",&a);
     char x[a];
 
-    scanf("%s",&x);
+    scanf("%s",x);
     printf("%s\n",x);
     for(b=0;b<strlen(x);b++){
         printf("%c\n",x[b]);
