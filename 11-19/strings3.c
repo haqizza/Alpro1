@@ -24,13 +24,13 @@ int main(){
             l++;
         }
     }
-
+    
     if(l==n){
         printf("Semua memiliki 'a'\n");
     }else{
         printf("Tidak semua memiliki 'a'\n");
     }
-    
+
     system("pause");
     return 0;
 }
