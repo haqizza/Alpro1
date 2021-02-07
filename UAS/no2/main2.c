@@ -15,7 +15,7 @@ int main(){
 
     a = cariHuruf(n,h,arr);
 
-    printf("\n%d\n",a);
+    printf("%d\n",a);
 
     system("pause");
     return 0;
